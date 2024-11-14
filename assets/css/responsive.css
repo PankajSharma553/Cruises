@@ -1,0 +1,161 @@
+/* media query 1200 */
+
+@media (max-width: 1200px) {
+  .featured_wrapper {
+    gap: 20px;
+  }
+}
+/* media query 1024 */
+@media (max-width: 1024px) {
+  .mb-8 {
+    margin-bottom: 80px;
+  }
+  .info_wrapper {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .info_section {
+    width: 31%;
+  }
+  .bg-img {
+    height: 350px;
+  }
+  .featured_wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  .featured .page_heading {
+    margin-bottom: 40px;
+  }
+  .whyChoose_wrapper {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .details_wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+/* media query 992 */
+@media (max-width: 992px) {
+  .footer_navbar {
+    width: 30%;
+  }
+}
+/* media query 768 */
+@media (max-width: 768px) {
+  .mb-6 {
+    margin-bottom: 60px;
+  }
+  .section_title{
+    font-size: 20px;
+  }
+  .section_title::after {
+   display: none;
+}
+  .info_content {
+    padding-block: 2rem;
+  }
+  .page_heading {
+    font-size: 30px;
+  }
+  .banner_heading {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  .info_section {
+    width: 47%;
+  }
+  .featured .page_heading,
+  .whyChoose .page_heading {
+    margin-bottom: 32px;
+  }
+  .bg-img {
+    height: 300px;
+  }
+  .whyChoose_img {
+    max-width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+  }
+  .signup {
+    padding-block: 32px;
+  }
+  .signup_inner {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .featured_wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .whyChoose_wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .newsletter_wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1rem;
+  }
+  .newsletter_right {
+    order: 2;
+  }
+  .details_wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .details_cardHeading {
+    font-size: 20px;
+    margin-bottom: 14px;
+  }
+  .details .page_heading {
+    margin-bottom: 2rem;
+  }
+  .faq_wrapper {
+    padding: 12px;
+  }
+  .footer_navbar {
+    width: 38%;
+  }
+  .footer_socials {
+    width: 38%;
+  }
+}
+/* media query 480 */
+@media (max-width: 480px) {
+  .mb-4 {
+    margin-bottom: 40px;
+  }
+  .info_content {
+    padding-block: 20px;
+  }
+  .page_heading {
+    font-size: 24px;
+  }
+  .banner_heading {
+    font-size: 32px;
+    margin-bottom: 4px;
+  }
+  .info_section {
+    width: 100%;
+  }
+  .signup {
+    padding-block: 24px;
+  }
+  .whyChoose_wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .featured .page_heading,
+  .whyChoose .page_heading {
+    margin-bottom: 24px;
+  }
+  .details_cardHeading {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  .info_img {
+    height: 250px;
+  }
+  .faq_wrapper {
+    margin: 40px auto;
+  }
+  .footer_left,
+  .footer_navbar,
+  .footer_socials {
+    width: 100%;
+  }
+}

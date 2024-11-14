@@ -1,0 +1,63 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 836 480" width="836" height="480">
+	<title>8990659-ai</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-641.848,0,0,-349.414,762.805,176.963)">
+			<stop offset="0" stop-color="#0385ff"/>
+			<stop offset="1" stop-color="#026acc"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-641.845,0,0,-103.052,762.805,356.623)">
+			<stop offset="0" stop-color="#0385ff"/>
+			<stop offset="1" stop-color="#026acc"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(675.083,-25.215,21.226,568.285,95.836,177.787)">
+			<stop offset="0" stop-color="#022482"/>
+			<stop offset="1" stop-color="#014f99"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-641.847,0,0,-89.435,762.806,360.402)">
+			<stop offset="0" stop-color="#0385ff"/>
+			<stop offset="1" stop-color="#026acc"/>
+		</linearGradient>
+		<linearGradient id="g5" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(134.88,0,0,130.063,204.843,19.906)">
+			<stop offset="0" stop-color="#022482"/>
+			<stop offset="1" stop-color="#014f99"/>
+		</linearGradient>
+		<linearGradient id="g6" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(577.05,0,0,267.601,73.798,56.777)">
+			<stop offset="0" stop-color="#022482"/>
+			<stop offset="1" stop-color="#014f99"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.t6 { font-size: 47px;text-transform: uppercase;fill: #014f99;font-weight: 400;font-family: "FugazOne-Regular", "Fugaz One" } 
+	</style>
+	<g id="BACKGROUND">
+	</g>
+	<g id="OBJECTS">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m524 48.3c-6-7.9-11.8-14.8-17.5-20.6-53.8 15.4-117.3 37.6-179.2 68.2 57.1-34.1 116-60.6 166.4-79.9-40.7-31.8-78.1-12-143.5 27.5-51.5 31.1-110 89.1-150.9 133.5 103.3-70.1 233.4-109.4 324.7-128.7z"/>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s1" d="m705.5 258.2c-2.4 25.8-20.7 50.8-62.2 53.6-70.8 4.9-170.3-25.9-228.1-33.1-190.4-23.8-269.6 10.3-322.6 60.5 0 0 83.2-54.4 251.4-25.1 60.9 10.6 112.6 25.5 157.6 38.6q0 0 0 0c103.3 17.1 200.6-23 203.9-94.5z"/>
+				<path id="&lt;Path&gt;" class="s2" d="m693.4 370c99.2-44.5 75-194.3-8.4-207.3-82.3-12.9-93.2 71.3-93.2 71.3 0 0 14.8-24.5 37.1-35.1 20.5-9.7 47.9-6.7 65.3 17 8.4 11.4 12.6 27 11.3 42.3-3.3 71.5-100.6 111.6-203.9 94.5q0 0 0 0c80.4 23.3 139.4 40.8 191.8 17.3z"/>
+			</g>
+			<path id="&lt;Path&gt;" class="s3" d="m152.5 360.4c0 0 58.2-94.6 301.7 0 0 0-167.1-44.5-301.7 0z"/>
+			<path id="&lt;Path&gt;" class="s4" d="m339.7 31.9c-35.2-24.6-67.9-13.4-95.2 52.1l-24.7-37.4-15 23.6c0 0 17 37.4 10.5 79.8 0 0 33-44.9 80.8-84.8 30.8-25.7 43.6-33.3 43.6-33.3z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s5" d="m534.1 289.4c0 0-321.2-88.3-460.3 35 0 0 4.9-31 10.8-38.8 145.8-191.8 505.9-230.9 556-228.7 50.1 2.1-98.3 81.4-106.5 232.5zm-339.9-72.4c-0.8-3.3-4.2-5.2-7.7-4.4-3.4 0.9-5.6 4.3-4.7 7.6 0.9 3.2 4.3 5.1 7.7 4.3 3.4-0.9 5.5-4.2 4.7-7.5zm42.9-23.3c-0.6-4-4.6-6.7-8.9-5.9-4.2 0.8-7.1 4.7-6.3 8.7 0.8 4 4.8 6.6 9 5.8 4.1-0.7 6.9-4.6 6.2-8.6zm44.4-20.2c-0.4-4.8-4.8-8.3-9.9-7.7-5 0.6-8.7 5-8.1 9.7 0.6 4.8 5.1 8.1 10 7.5 4.9-0.6 8.5-4.8 8-9.5zm45.8-17.3c-0.1-5.4-4.9-9.7-10.7-9.4-5.9 0.2-10.4 5-10.1 10.4 0.3 5.5 5.2 9.6 10.8 9.4 5.7-0.3 10.1-4.9 10-10.4zm46.9-14c0.3-6.2-4.7-11.4-11.3-11.5-6.6-0.1-12.1 4.9-12.2 11.1-0.1 6.1 5.1 11.1 11.5 11.2 6.3 0.2 11.7-4.7 12-10.8zm36.2-24.5c-7.3-0.6-13.9 4.6-14.5 11.4-0.5 6.9 4.8 12.8 11.9 13.4 7.1 0.6 13.5-4.4 14.3-11.2 0.9-6.8-4.3-13-11.7-13.6zm48.6-9.8c-8.1-1.3-15.7 4-16.9 11.5-1.1 7.5 4.4 14.4 12.1 15.5 7.8 1.2 15.2-3.8 16.7-11.2 1.5-7.4-3.8-14.6-11.9-15.8z"/>
+		</g>
+	</g>
+	<g id="TEXTS">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<text id="cruzaujourdhui" style="transform: matrix(1.841,-0.014,.027,1.684,419,456.562)" >
+					<tspan x="-209.4" y="0" class="t6">CRUZAUJOURDHUI</tspan><tspan  y="0" class="t6">
+</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
