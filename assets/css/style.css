@@ -267,7 +267,7 @@ img {
 
 /* banner section */
 .banner {
-  background-image: url("/assets/imgaes/banner-img.jpg");
+  background-image: url("/assets/imgaes/banner.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -469,7 +469,7 @@ img {
 }
 
 .featured_img {
-  background-image: url("/assets/imgaes/featured1.jpg");
+  background-image: url("/assets/imgaes/ritz-Carlton.jpg");
   height: 350px;
   border-radius: 8px;
   background-position: initial;
@@ -482,11 +482,11 @@ img {
   transform: scale(1.1);
 }
 .featured_img--vista {
-  background-image: url("/assets/imgaes/featured2.jpg");
+  background-image: url("/assets/imgaes/carnival-vista.jpg");
 }
 
 .featured_img--preziosa {
-  background-image: url("/assets/imgaes/featured3.jpg");
+  background-image: url("/assets/imgaes/MSC-preziosa.jpg");
 }
 
 .featured_img::before {
@@ -657,11 +657,12 @@ img {
 }
 
 .newsletter_img {
-  background-image: url("/assets/imgaes/excute-offer.jpg");
+  background-image: url("/assets/imgaes/form_banner.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 420px;
+  border-radius: 4px;
 }
 
 .newsletter_form {
@@ -722,6 +723,22 @@ img {
   border-radius: 8px;
   background-image: url("/assets/imgaes/featured1.jpg");
 }
+.details_img--Ritz{
+  background-image: url("/assets/imgaes/ritz-Carlton.jpg");
+}
+.details_img--crystal{
+  background-image: url("/assets/imgaes/crystal-serenity.jpg");
+}
+.details_img--seabourn{
+  background-image: url("/assets/imgaes/seabourn-ovation.jpg");
+}
+.details_img--ocean{
+  background-image: url("/assets/imgaes/ocean.jpg");
+}
+.details_img--muse{
+  background-image: url("/assets/imgaes/silver-mus.jpg");
+}
+
 .details_card ul {
   list-style: disc;
   margin-left: 16px;
@@ -741,7 +758,7 @@ img {
   display: block;
   font-weight: 500;
   margin-bottom: 18px;
-  text-align: center;
+  text-align: start;
   color: var(--primary-color);
 }
 .details_card p {
