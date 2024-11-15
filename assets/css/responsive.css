@@ -45,12 +45,12 @@
   .mb-6 {
     margin-bottom: 60px;
   }
-  .section_title{
+  .section_title {
     font-size: 20px;
   }
   .section_title::after {
-   display: none;
-}
+    display: none;
+  }
   .info_content {
     padding-block: 2rem;
   }
@@ -78,6 +78,15 @@
   }
   .signup {
     padding-block: 32px;
+  }
+  .contact {
+    margin: 0px auto 2rem;
+  }
+  .about_intro {
+    margin-bottom: 20px;
+  }
+  .section_intro {
+    margin-bottom: 20px;
   }
   .signup_inner {
     grid-template-columns: repeat(1, 1fr);
@@ -135,6 +144,9 @@
   }
   .signup {
     padding-block: 24px;
+  }
+  .contact {
+    padding-inline: 4px;
   }
   .whyChoose_wrapper {
     grid-template-columns: repeat(1, 1fr);

@@ -822,6 +822,7 @@ img {
 }
 .about_item {
   line-height: 160%;
+  margin-left: 12px;
 }
 .about_intro {
   margin-bottom: 24px;
