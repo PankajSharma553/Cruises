@@ -165,7 +165,7 @@ img {
 
 .header_logoLnk {
   display: block;
-  background-image: url("/assets/imgaes/logo.svg");
+  background-image: url("../imgaes/logo.svg");
   background-size: contain;
   background-position: center;
   width: 120px;
@@ -251,14 +251,14 @@ img {
   height: 30px;
   width: 30px;
   cursor: pointer;
-  background-image: url("/assets/imgaes/hamburger-menu.svg");
+  background-image: url("../imgaes/hamburger-menu.svg");
 }
 
 .close_icon {
   height: 30px;
   width: 30px;
   cursor: pointer;
-  background-image: url("/assets/imgaes/close_icon.svg");
+  background-image: url("../imgaes/close_icon.svg");
   position: absolute;
   top: 20px;
   right: 32px;
@@ -267,7 +267,7 @@ img {
 
 /* banner section */
 .banner {
-  background-image: url("/assets/imgaes/banner.jpg");
+  background-image: url("../imgaes/banner.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -337,7 +337,7 @@ img {
 }
 
 .info_img {
-  background-image: url("/assets/imgaes/luxury-cruises.jpg");
+  background-image: url("../imgaes/luxury-cruises.jpg");
   height: 400px;
   background-size: cover;
   display: flex;
@@ -366,15 +366,15 @@ img {
 }
 
 .info_img--economy {
-  background-image: url("/assets/imgaes/economy-cruises.jpg");
+  background-image: url("../imgaes/economy-cruises.jpg");
 }
 
 .info_img--casinos {
-  background-image: url("/assets/imgaes/cruises-casinos.jpg");
+  background-image: url("../imgaes/cruises-casinos.jpg");
 }
 
 .info_img--mediterranean {
-  background-image: url("/assets/imgaes/mediterranean-cruises.jpg");
+  background-image: url("../imgaes/mediterranean-cruises.jpg");
 }
 
 .info_img:hover {
@@ -469,7 +469,7 @@ img {
 }
 
 .featured_img {
-  background-image: url("/assets/imgaes/ritz-Carlton.jpg");
+  background-image: url("../imgaes/ritz-Carlton.jpg");
   height: 350px;
   border-radius: 8px;
   background-position: initial;
@@ -482,11 +482,11 @@ img {
   transform: scale(1.1);
 }
 .featured_img--vista {
-  background-image: url("/assets/imgaes/carnival-vista.jpg");
+  background-image: url("../imgaes/carnival-vista.jpg");
 }
 
 .featured_img--preziosa {
-  background-image: url("/assets/imgaes/MSC-preziosa.jpg");
+  background-image: url("../imgaes/MSC-preziosa.jpg");
 }
 
 .featured_img::before {
@@ -529,6 +529,7 @@ img {
   align-items: center;
   text-align: center;
   gap: 10px;
+  transition: all 0.3s ease-in-out;
 }
 .whyChoose_card:hover {
   transform: translate3d(10px, 10px, 10px);
@@ -541,19 +542,19 @@ img {
   border-radius: 50%;
   background-size: cover;
   margin-bottom: 16px;
-  background-image: url("/assets/imgaes/carefull.svg");
+  background-image: url("../imgaes/carefull.svg");
 }
 
 .whyChoose_img--offer {
-  background-image: url("/assets/imgaes/Offres-exclusives.svg");
+  background-image: url("../imgaes/Offres-exclusives.svg");
 }
 
 .whyChoose_img--recomended {
-  background-image: url("/assets/imgaes/recommendations.svg");
+  background-image: url("../imgaes/recommendations.svg");
 }
 
 .whyChoose_img--travel {
-  background-image: url("/assets/imgaes/thousand-user.svg");
+  background-image: url("../imgaess/thousand-user.svg");
 }
 
 .whyChoose_content h3 {
@@ -657,7 +658,7 @@ img {
 }
 
 .newsletter_img {
-  background-image: url("/assets/imgaes/form_banner.jpg");
+  background-image: url("../imgaes/form_banner.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -694,7 +695,7 @@ img {
 
 /* details section  */
 .section_luxury .banner {
-  background-image: url("/assets/imgaes/luxury-cruises.jpg");
+  background-image: url("../imgaes/luxury-cruises.jpg");
   background-position: bottom;
 }
 .details {
@@ -721,22 +722,22 @@ img {
   background-size: cover;
   margin-bottom: 12px;
   border-radius: 8px;
-  background-image: url("/assets/imgaes/featured1.jpg");
+  background-image: url("../imgaes/featured1.jpg");
 }
 .details_img--Ritz{
-  background-image: url("/assets/imgaes/ritz-Carlton.jpg");
+  background-image: url("../imgaes/ritz-Carlton.jpg");
 }
 .details_img--crystal{
-  background-image: url("/assets/imgaes/crystal-serenity.jpg");
+  background-image: url("../imgaes/crystal-serenity.jpg");
 }
 .details_img--seabourn{
-  background-image: url("/assets/imgaes/seabourn-ovation.jpg");
+  background-image: url("../imgaes/seabourn-ovation.jpg");
 }
 .details_img--ocean{
-  background-image: url("/assets/imgaes/ocean.jpg");
+  background-image: url("../imgaes/ocean.jpg");
 }
 .details_img--muse{
-  background-image: url("/assets/imgaes/silver-mus.jpg");
+  background-image: url("../imgaes/silver-mus.jpg");
 }
 
 .details_card ul {
@@ -783,15 +784,15 @@ img {
 }
 /* Section Economy */
 .section_economy .banner {
-  background-image: url("/assets/imgaes/economy-cruises.jpg");
+  background-image: url("../imgaes/economy-cruises.jpg");
 }
 /* Section casinos */
 .section_casinos .banner {
-  background-image: url("/assets/imgaes/cruises-casinos.jpg");
+  background-image: url("../imgaes/cruises-casinos.jpg");
 }
 /* Section mediterranean */
 .section_mediterranean .banner {
-  background-image: url("/assets/imgaes/mediterranean-cruises.jpg");
+  background-image: url("../imgaes/mediterranean-cruises.jpg");
 }
 /* about section */
 .section_container {
@@ -928,7 +929,7 @@ img {
 }
 
 .footer_icon {
-  background-image: url("/assets/imgaes/footer_logo.svg");
+  background-image: url("../imgaes/footer_logo.svg");
   height: 80px;
   width: 120px;
   background-repeat: no-repeat;
@@ -973,7 +974,7 @@ img {
 }
 
 .social_link {
-  background-image: url("/assets/imgaes/facebook.png");
+  background-image: url("../imgaes/facebook.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -991,15 +992,15 @@ img {
   text-decoration: underline;
 }
 .social_link--twitter {
-  background-image: url("/assets/imgaes/twitter.png");
+  background-image: url("../imgaes/twitter.png");
 }
 
 .social_link--inta {
-  background-image: url("/assets/imgaes/instagram.png");
+  background-image: url("../imgaes/instagram.png");
 }
 
 .social_link--linkedin {
-  background-image: url("/assets/imgaes/linkedin.png");
+  background-image: url("../imgaes/linkedin.png");
 }
 
 .footer_btm {
@@ -1015,7 +1016,7 @@ img {
 }
 
 .footer_SSlLink {
-  background-image: url("/assets/imgaes/ssl-img.jpg");
+  background-image: url("../imgaes/ssl-img.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
