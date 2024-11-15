@@ -724,22 +724,60 @@ img {
   border-radius: 8px;
   background-image: url("../imgaes/featured1.jpg");
 }
-.details_img--Ritz{
+.details_img--regent {
+  background-image: url("../imgaes/regent.jpg");
+}
+.details_img--Ritz {
   background-image: url("../imgaes/ritz-Carlton.jpg");
 }
-.details_img--crystal{
+.details_img--crystal {
   background-image: url("../imgaes/crystal-serenity.jpg");
 }
-.details_img--seabourn{
+.details_img--seabourn {
   background-image: url("../imgaes/seabourn-ovation.jpg");
 }
-.details_img--ocean{
+.details_img--ocean {
   background-image: url("../imgaes/ocean.jpg");
 }
-.details_img--muse{
+.details_img--muse {
   background-image: url("../imgaes/silver-mus.jpg");
 }
-
+.details_img--caribbean {
+  background-image: url("../imgaes/royal-caribbean.jpg");
+}
+.details_img--preziosa {
+  background-image: url("../imgaes/MSC-preziosa.jpg");
+}
+.details_img--norwegian {
+  background-image: url("../imgaes/norwegian-bliss.jpg");
+}
+.details_img--norwegian {
+  background-image: url("../imgaes/caribbean-princess.jpg");
+}
+.details_img--costa {
+  background-image: url("../imgaes/costa-favolosaz.jpg");
+}
+.details_img--meraviglia {
+  background-image: url("../imgaes/msc-meraviglia.jpg");
+}
+.details_img--celebrity {
+  background-image: url("../imgaes/celebrity-edge.jpg");
+}
+.details_img--princess {
+  background-image: url("../imgaes/princess-cruises-crown.jpg");
+}
+.details_img--princess {
+  background-image: url("../imgaes/princess-cruises-crown.jpg");
+}
+.details_img--vista {
+  background-image: url("../imgaes/carnival-vista.jpg");
+}
+.details_img--diadema {
+  background-image: url("../imgaes/costa-diadema.jpg");
+}
+.details_img--lirica {
+  background-image: url("../imgaes/msc-lirica.jpg");
+}
 .details_card ul {
   list-style: disc;
   margin-left: 16px;
@@ -875,17 +913,32 @@ img {
   gap: 20px;
 }
 
-.social-link {
+/* .social-link {
   text-decoration: none;
   color: #007bff;
   font-weight: bold;
   font-size: 1.1em;
-}
+  border: 1px solid red;
 
-.social-link:hover {
-  color: #0056b3;
+} */
+.social-heading {
+  margin-bottom: 10px;
 }
-
+.social-link {
+  background-image: url("../imgaes/facebook.png");
+  height: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 30px;
+  border-radius: 50px;
+}
+.social-link--instgram {
+  background-image: url("../imgaes/instagram.png");
+}
+.social-link--instgram {
+  background-image: url("../imgaes/twitter.png");
+}
 .section_intro {
   margin-bottom: 24px;
 }
